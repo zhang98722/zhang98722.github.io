@@ -1,16 +1,10 @@
 # Site settings
-title:       MOCRI-旭日虫洞公司 
-email:       zhang98722@qq.com 
-author:      ShadowSong
-description: "MOCRI-旭日虫洞公司"
+title:       Pixyll
+email:       your_email@example.com
+author:      John Otander
+description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
 baseurl:     ""
-url:         "blog.mocri.shadowsong.cn"
-
-#Duoshuo short Name / 多说的shortname
-duoshuo: 
-
-#Baidu analytics / 百度统计(异步的js码，注意使用异步版本的)
-baidu_analyze: 3908cbb144cf558ba6a823230d653fc22 
+url:         "http://pixyll.com"
 
 # Google analytics
 google_analytics:
