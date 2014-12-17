@@ -1,10 +1,10 @@
 # Site settings
-title:       Pixyll
-email:       your_email@example.com
-author:      John Otander
+title:       MOCRI-旭日虫洞公司
+email:       zhang98722@qq.com
+author:      ShadowSong
 description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
 baseurl:     ""
-url:         "http://pixyll.com"
+url:         "http://zhang98722.github.io"
 
 # Google analytics
 google_analytics:
