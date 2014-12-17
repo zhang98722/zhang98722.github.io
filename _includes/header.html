@@ -1,43 +1,14 @@
-<header class=" navbar navbar-default navbar-fixed-top bs-docs-nav" role="banner">
-        <div class="container">
-            <nav class="collapse navbar-collapse bs-navbar-collapse" role="navigation">
-                <ul class="nav navbar-nav navbar">
-                    <li>
-                        <a href="/" id="brand">
-                            <img style="margin-top: -5px;padding: 5px;" src="https://image.eveonline.com/Corporation/98355458_32.png" class="navbar-brand">
-                            $!{corpName}
-                        </a>
-                    </li>
-                    <li>
-                        <a href="/aboutUs">关于我们</a>
-                    </li>
-                    <li>
-                        <a href="/">通知&amp;公告</a>
-                    </li>
-                    <li>
-                        <a href="/">FleetUp</a>
-                    </li>
-                    <li>
-                        <a href="/">影像&amp;资料</a>
-                    </li>
-                    <li>
-                        <a href="https://docs.google.com/spreadsheets/d/1JxFOmcEBbk1yjXVBjEaofPQ7JGwRoeYcTRHx7JQr1yY/edit#gid=0">公司财政</a>
-                    </li>
-                </ul>
-                <ul class="nav navbar-nav navbar-right">
-                    #if($!{login})
-                        <li class="dropdown">
-                            <a href="javascript:void(0)" class="dropdown-toggle" data-toggle="dropdown" aria-expanded="false">$!{character.characterName}<b class="caret"></b></a>
-                            <ul class="dropdown-menu">
-                                <li>
-                                    <a href="/logout" target="_blank">退出</a>
-                                </li>
-                            </ul>
-                        </li>
-                    #else
-                        <li><a style="padding: 15px;" href="https://login.eveonline.com/oauth/authorize/?response_type=code&redirect_uri=http://mocri.shadowsong.cn/&client_id=4672510d543d4f8cb428982e0ebc19a2&scope=&state=login"><img src="/image/EVE_SSO_Login_Buttons_Small_White.png"></a></li>
-                    #end
-                </ul>
-            </nav>
-        </div>
-    </header>
+<header class="site-header px2 px-responsive">
+  <div class="mt2 wrap">
+    <div class="measure">
+      <a href="{{ site.url }}" class="site-title">{{ site.title }}</a>
+      <nav class="site-nav right">
+        {% include navigation.html %}
+      </nav>
+      <div class="clearfix"></div>
+      {% if site.show_social_icons %}
+        {% include social_links.html %}
+      {% endif %}
+    </div>
+  </div>
+</header>
