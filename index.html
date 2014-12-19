@@ -1,20 +1,24 @@
 ---
 layout: default
 ---
+<main id="content" role="main" class="home-page">
+ <div class="container">
+	 <div class="row">
+		<div class="home">
+		  <div class="posts">
+			{% for post in paginator.posts %}
+			  <div class="post">
+				<a href="{{ post.url | prepend: site.baseurl }}" class="post-link">
+				  <p class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</p>
+				  <h3 class="h2 post-title">{{ post.title }}</h3>
+				  <p class="post-summary">{{ post.summary }}</p>
+				</a>
+			  </div>
+			{% endfor %}
+		  </div>
 
-<div class="home">
-
-  <div class="posts">
-    {% for post in paginator.posts %}
-      <div class="post">
-        <a href="{{ post.url | prepend: site.baseurl }}" class="post-link">
-          <p class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</p>
-          <h3 class="h2 post-title">{{ post.title }}</h3>
-          <p class="post-summary">{{ post.summary }}</p>
-        </a>
-      </div>
-    {% endfor %}
-  </div>
-
-  {% include pagination.html %}
+		  {% include pagination.html %}
+		</div>
+	</div>
 </div>
+</main>
