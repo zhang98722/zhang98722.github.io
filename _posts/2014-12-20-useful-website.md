@@ -44,10 +44,10 @@ IGB POS模拟器：http://eve.1019.net/pos/index.php
 
 ## 任务
 
-任务信息及攻略查询：http://eve-survival.org/
+任务信息及攻略查询：eve-survival.org/wikka.php?wakka=WormholeSpaceClass5
 
 ## 虫洞
 
 虫洞交易：http://www.evecharactersearch.com/
 
-星系情况查询：https://eveeye.com/?opt=GIB&system=GE-8JV
+星系情况查询：eveeye.com/?opt=&x=r&system=J111543
