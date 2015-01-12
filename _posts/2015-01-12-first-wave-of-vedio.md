@@ -8,15 +8,12 @@ categories: 影像&资料
 
 ## 扫描基本知识
 
-<div>
-<iframe height=498 width=510 src="http://player.youku.com/embed/XODY5MjQ3NzQ4" frameborder=0 allowfullscreen> </iframe>
-<embed src="http://player.youku.com/player.php/sid/XODY5MzE3NzMy/v.swf" allowFullScreen="true" quality="high" width="480" height="400" align="middle" allowScriptAccess="always" type="application/x-shockwave-flash"></embed>
-</div>
+<embed src="http://player.youku.com/player.php/sid/XODY5MjQ3NzQ4/v.swf" allowFullScreen="true" quality="high" width="480" height="400" align="middle" allowScriptAccess="always" type="application/x-shockwave-flash"></embed>
 
 ## PLD单刷视频
 
-<iframe height=498 width=510 src="http://player.youku.com/embed/XODY5MzE3NzMy" frameborder=0 allowfullscreen> </iframe>
+<embed src="http://player.youku.com/player.php/sid/XODY5MzE3NzMy/v.swf" allowFullScreen="true" quality="high" width="480" height="400" align="middle" allowScriptAccess="always" type="application/x-shockwave-flash"></embed>
 
 ## 无畏操作视频
 
-<iframe height=498 width=510 src="http://player.youku.com/embed/XODY5NzY3NzA0" frameborder=0 allowfullscreen> </iframe>
+<embed src="http://player.youku.com/player.php/sid/XODY5NzY3NzA0/v.swf" allowFullScreen="true" quality="high" width="480" height="400" align="middle" allowScriptAccess="always" type="application/x-shockwave-flash"></embed>
