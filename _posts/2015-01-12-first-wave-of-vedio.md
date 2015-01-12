@@ -8,12 +8,12 @@ categories: 影像&资料
 
 ## 扫描基本知识
 
-<embed src="http://player.youku.com/player.php/sid/XODY5MjQ3NzQ4/v.swf" allowFullScreen="true" quality="high" width="480" height="400" align="middle" allowScriptAccess="always" type="application/x-shockwave-flash"></embed>
+<embed src="http://player.youku.com/player.php/sid/XODY5MjQ3NzQ4/v.swf" allowFullScreen="true" quality="high" width="480" height="400" align="middle" allowScriptAccess="always" type="application/x-shockwave-flash"> </embed>
 
 ## PLD单刷视频
 
-<embed src="http://player.youku.com/player.php/sid/XODY5MzE3NzMy/v.swf" allowFullScreen="true" quality="high" width="480" height="400" align="middle" allowScriptAccess="always" type="application/x-shockwave-flash"></embed>
+<embed src="http://player.youku.com/player.php/sid/XODY5MzE3NzMy/v.swf" allowFullScreen="true" quality="high" width="480" height="400" align="middle" allowScriptAccess="always" type="application/x-shockwave-flash"> </embed>
 
 ## 无畏操作视频
 
-<embed src="http://player.youku.com/player.php/sid/XODY5NzY3NzA0/v.swf" allowFullScreen="true" quality="high" width="480" height="400" align="middle" allowScriptAccess="always" type="application/x-shockwave-flash"></embed>
+<embed src="http://player.youku.com/player.php/sid/XODY5NzY3NzA0/v.swf" allowFullScreen="true" quality="high" width="480" height="400" align="middle" allowScriptAccess="always" type="application/x-shockwave-flash"> </embed>
