@@ -10,6 +10,7 @@ categories: 影像&资料
 
 <div>
 <iframe height=498 width=510 src="http://player.youku.com/embed/XODY5MjQ3NzQ4" frameborder=0 allowfullscreen> </iframe>
+<embed src="http://player.youku.com/player.php/sid/XODY5MzE3NzMy/v.swf" allowFullScreen="true" quality="high" width="480" height="400" align="middle" allowScriptAccess="always" type="application/x-shockwave-flash"></embed>
 </div>
 
 ## PLD单刷视频
