@@ -20,4 +20,4 @@ categories: 影像&资料
 
 ## loki配合旗舰
 
-<embed src="http://player.youku.com/player.php/sid/XODcyMzA0NzMy/v.swf" allowFullScreen="true" quality="high" width="480" height="400" align="middle" allowScriptAccess="always" type="application/x-shockwave-flash"></embed>
+<embed src="http://player.youku.com/player.php/sid/XODcyMzA0NzMy/v.swf" allowFullScreen="true" quality="high" width="480" height="400" align="middle" allowScriptAccess="always" type="application/x-shockwave-flash" />
