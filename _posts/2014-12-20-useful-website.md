@@ -51,3 +51,5 @@ IGB POS模拟器：http://eve.1019.net/pos/index.php
 虫洞交易：http://www.evecharactersearch.com/
 
 星系情况查询：eveeye.com/?opt=&x=r&system=J111543
+
+虫洞NPC查询：http://games.chruker.dk/eve_online/npc_ships.php?supergroup=23
