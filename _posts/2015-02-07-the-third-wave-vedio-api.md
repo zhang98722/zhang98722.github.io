@@ -8,7 +8,7 @@ categories: doc&vedio
 
 ## api的创建
 
-<embed src="http://player.youku.com/player.php/sid/XOTI5Mzg5NDg0/v.swf" allowFullScreen="true" quality="high" width="480" height="400" align="middle" allowScriptAccess="always" type="application/x-shockwave-flash"></embed>
+<embed src="http://player.youku.com/player.php/sid/XOTI5Mzg5NDg0/v.swf" allowFullScreen="true" quality="high" width="480" height="400" align="middle" allowScriptAccess="always" type="application/x-shockwave-flash"/>
 
 
 
