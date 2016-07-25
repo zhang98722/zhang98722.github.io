@@ -1,168 +1,104 @@
-# Pixyll
+# Jacman
 
-[pixyll.com](http://www.pixyll.com)
+[中文说明](/README_zh.md)
 
-![Pixyll screenshot](https://cloud.githubusercontent.com/assets/1424573/3847467/134aa236-1e66-11e4-8421-4e8c122118dc.png)
+Jacman is a fresh looking and responsive theme for [Hexo](http://hexo.io) with more features and some build-in Chinese service based on [Pacman](https://github.com/A-limon/pacman).  
 
-Pixyll is a simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff. It's mobile _first_, fluidly responsive, and delightfully lightweight.
+**Jacman support Hexo 3.0 now !**
 
-It's pretty minimal, but leverages large type and drastic contrast to make a statement, on all devices.
+[Demo](http://jacman.wuchong.me)
 
-This Jekyll theme was crafted with <3 by [John Otander](http://johnotander.com)
-([@4lpine](https://twitter.com/4lpine)).
+[如何使用 Jacman 主题](http://jacman.wuchong.me/2014/11/20/how-to-use-jacman/)
 
-中文版 <https://github.com/ee0703/pixyll-zh-cn>.
-
-## Getting Started
-
-If you're completely new to Jekyll, I recommend checking out the documentation at <http://jekyllrb.com> or there's a tutorial by [Smashing Magazine](http://www.smashingmagazine.com/2014/08/01/build-blog-jekyll-github-pages/).
-
-### Installing Jekyll
-
-If you don't have Jekyll already installed, you will need to go ahead and do that.
-
+##Installation
+###Install
 ```
-$ gem install jekyll
+$ git clone https://github.com/wuchong/jacman.git themes/jacman
 ```
-
-#### Verify your Jekyll version
-
-It's important to also check your version of Jekyll since this project uses Native Sass which
-is [only supported by 2.0+](http://jekyllrb.com/news/2014/05/06/jekyll-turns-2-0-0/).
-
+**Jacman requires Hexo 2.7 and above.** 
+###Enable
+Modify `theme` setting in blog folder` _config.yml` to `jacman`.
+###Update
 ```
-$ jekyll -v
-# This should be jekyll 2.0.0 or later
+cd themes/jacman
+git pull origin master
 ```
+**please backup your `_config.yml` file before update.** 
 
-### Fork, then clone
+##Configuration
 
-Fork the repo, and then clone it so you've got the code locally.
+Modify settings in  `/themes/jacman/_config.yml`. [Learn More](https://github.com/wuchong/jacman/wiki/%E9%85%8D%E7%BD%AE%E6%8C%87%E5%8D%97).
 
-### Modify the _config.yml
+##Features
+- **menu**  
+ Main navigation menu.
+- **widget**  
+ Widgets displaying in sidebar.The category,tag,rss,archive,tagcloud,links,weibo are supported.
+- **Image**  
+ Images about favicon, site logo, author image, banner image. Support different image styles like `img-logo`,`img-topic`,`img-center` etc.
+- **index**  
+ Two different home page display modes.You can visit [Demo](http://jacman.wuchong.me) to check the difference.
+- **author**  
+ Author imformation, used to show your social network links on the bottom right. Including github, stackoverflow, twitter, facebook, linkedin, google+, weibo, douban, zhihu, email.
+- **toc**  
+ Show Table Of Contents in article & aside.
+- **comments**  
+ [duoshuo](http://duoshuo.com/) & [disqus](https://disqus.com/) are supported.
+- **jiathis**  
+ Build-in share tool or [JiaThis](http://www.jiathis.com/) share buttons at the bottom of articles.
+- **Analytiscs**  
+ [Google analytics](http://www.google.com/analytics/) & [Baidu tongji](http://tongji.baidu.com/) & [CNZZ tongji](http://www.cnzz.com/) are all supported.
+- **Search**  
+ [Googlle Custom Search](https://www.google.com/cse/ ) & [Baidu Site Search](http://zn.baidu.com/) & [Tiny Search](http://tinysou.com/) are supported.
+- **totop**  
+ Scroll to top
+- **rss**  
+ RSS subscription link (change if using Feedburner).
+- **fancybox**  
+ Enable [Fancybox](http://fancyapps.com/fancybox/)
+- **custom theme color**
+ Mondify theme color in `_config.yaml` instead of finding unfamiliar stylus files.
+- **others**
+ You can configure sidebar not show in post pages.
 
-The `_config.yml` located in the root of the Pixyll directory contains all of the configuration details
-for the Jekyll site. The defaults are:
+You can learn how to use them from [Configuration](https://github.com/wuchong/jacman/wiki/配置指南).
 
-```yml
-# Site settings
-title: Pixyll
-email: your_email@example.com
-author: John Otander
-description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
-baseurl: ""
-url: "http://pixyll.com"
+##Sites
+- [Jacman Theme](http://jacman.wuchong.me) - The demo site of Jacman Theme
+- [Jark's Blog](http://wuchong.me) - The author's blog of Jacman
+- [阿杜个人博客](http://ralphadu.com) - 阿杜个人博客
+- [PhiloSky's Blog](http://philosky.ml/) - Personal blog
+- [hiluSdream](http://hiluluke.cn) - 梦想是无所谓无的，无所谓有的
+- [Melface](http://melface.tk) - Personal blog
+- [heamon7's Utopia](http://heamon7.com) - 修行绝尘，悟道涉俗
+- [PegasusWang's Blog](http://ningning.today) - 你的问题主要在于读书不多而想得太多
+- [青劲草](http://www.caoqq.net) - 学会记录成长点滴
+- [Vigorass](http://cscao.com) - Learn to record dripping growth
+- [MoqiZhan](http://moqizhan.com) - 人生就是不停的战斗
+- [Think Differently](http://think-diff.me/) - If You Can Think Differently, You Can Act Differently.
+- [ylf](http://wangyangyang.gitcafe.com) - 王洋洋
+- [Gevin's blog](http://blog.igevin.info/) - Stay hungry, stay foolish; Stop when you are perfect.
+- [keychar](http://keychar.com) - A technology blog, design & programming.
+- [peng的博客](http://chenpengdsp.com) - 人生就是不停的战斗
+- [More and More](http://aeesky.github.io) -刚起步：）
+- [好久不见](http://dpast.org) - Julian Zhu
+- [keke2014's blog](http://jukezhang.com/) - Stay hungry, stay foolish - Steve Jobs
+- [Eurry](http://www.eurry.net) - Eurry's Blog.
+- [sencle's blog](http://isencle.com) -just do it
+- [Oxymoron's Blog](http://ioxymoron.me) - Let's start from here.
+- [HelloDog](http://wsgzao.github.io) - Keep Clam and Carry On
+- [屠城｜屠夫9441的博客](http://haomwei.com) - 苟全性命于乱世，不求闻达于诸侯。
+- [Ice He. 何志遠](http://icehe.github.io/) - Less is more. 寧靜致遠。
+- [prokitty，侏罗纪公园](http://www.prokitty.com) -Belive yourself,belive Cherry.
+- [Ceclinux](http://ceclinux.org) - Arch is the best
+- [BruceGe's blog](http://brucege.com) - Start Blogging
+- [Yangxiaolei's blog](http://yangxiaolei.me) - 让知识成为信仰，让优秀成为习惯
+- [CC's blog](http://ccloveyou.org) - CC
+- [TadGuo's pages](http://watermeion.github.io) - More is different.
+- [Mutse's blog](http://mutse.github.io) - Love Life, Love open source
+- [唐巧的技术博客](http://blog.devtang.com/) - 巧神
 
-# Build settings
-markdown: kramdown
-permalink: pretty
-paginate: 3
-```
+If you are using Jacman,you can add your site [here](https://github.com/wuchong/jacman/wiki/Sites) ! I'll push the available sites here.
 
-### Jekyll Serve
-
-Then, start the Jekyll Server. I always like to give the `--watch` option so it updates the generated HTML when I make changes.
-
-```
-$ jekyll serve --watch
-```
-
-Now you can navigate to `localhost:4000` in your browser to see the site.
-
-### Using Github Pages
-
-You can host your Jekyll site for free with Github Pages. [Click here](https://pages.github.com/) for more information.
-
-#### A configuration tweak if you're using a gh-pages sub-folder
-
-In addition to your github-username.github.io repo that maps to the root url, you can serve up sites by using a gh-pages branch for other repos so they're available at github-username.github.io/repo-name.
-
-This will require you to modify the `_config.yml` like so:
-
-```yml
-# Site settings
-title: Repo Name
-email: your_email@example.com
-author: John Otander
-description: "Repo description"
-baseurl: "/repo-name"
-url: "http://github-username.github.io"
-
-# Build settings
-markdown: kramdown
-permalink: pretty
-paginate: 3
-```
-
-This will ensure that the the correct relative path is constructed for your assets and posts. Also, in order to run the project locally, you will need to specify the blank string for the baseurl: `$ jekyll serve --baseurl ''`.
-
-##### If you don't want the header to link back to the root url
-
-You will also need to tweak the header include `/{{ site.baseurl }}`:
-
-```html
-<header class="site-header px2 px-responsive">
-  <div class="mt2 wrap">
-    <div class="measure">
-      <a href="{{ site.url }}/{{ site.baseurl }}">{{ site.title }}</a>
-      <nav class="site-nav right">
-        {% include navigation.html %}
-      </nav>
-    </div>
-  </div>
-</header>
-```
-
-A relevant Jekyll Github Issue: <https://github.com/jekyll/jekyll/issues/332>
-
-### Contact Form
-
-If you'd like to keep the contact form, which uses <http://forms.brace.io/>, you will need to update the email address.
-
-Currently, the `contact.md` has the following:
-
-```html
-<form action="https://forms.brace.io/johnotander@icloud.com" method="POST" class="form-stacked form-light">
-```
-
-Where it says `johnotander@icloud.com`, you will need to change that to the email that you wish to have the form data sent to. It will require you to fill the form out when you push it live for the first time so that you can confirm your email.
-
-### Page Animation
-
-If you would like to add a [fade-in-down effect](http://daneden.github.io/animate.css/), you can add `animated: true` to your `_config.yml`.
-
-### Put in a Pixyll Plug
-
-If you want to give credit to the Pixyll theme with a link to <http://pixyll.com> or my personal website <http://johnotander.com> somewhere, that'd be awesome. No worries if you don't.
-
-### Enjoy
-
-I hope you enjoy using Pixyll. If you encounter any issues, please feel free to let me know by creating an [issue](https://github.com/johnotander/pixyll/issues). I'd love to help.
-
-## Upgrading Pixyll
-
-Pixyll is always being improved by its users, so sometimes one may need to upgrade.
-
-#### Ensure there's an upstream remote
-
-If `git remote -v` doesn't have an upstream listed, you can do the following to add it:
-
-```
-git remote add upstream https://github.com/johnotander/pixyll.git
-```
-
-#### Pull in the latest changes
-
-```
-git pull upstream master
-```
-
-There may be merge conflicts, so be sure to fix the files that git lists if they occur. That's it!
-
-## Contributing
-
-1. Fork it
-2. Create your feature branch (`git checkout -b my-new-feature`)
-3. Commit your changes (`git commit -am 'Add some feature'`)
-4. Push to the branch (`git push origin my-new-feature`)
-5. Create new Pull Request
+##License
+[MIT](/LICENSE)
