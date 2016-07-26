@@ -1,7 +1,7 @@
-# Jekyll configuration
+ï»¿# Jekyll configuration
 
-name: Ó°¸èµÄEVEĞ¡Õ¾
-description: ±¾Õ¾Ö÷Òª²É¼¯¹úÍâEVEÏà¹ØÎÄÕª²¢½øĞĞ·­Òë£¬ÒâÔÚÈÃ¹ã´ó»ªÈËÍæ¼ÒÄÜ¹»¸ü¶àµÄÁË½âµ½Å··şEVEµÄÉúÌ¬»·¾³
+name: å½±æ­Œçš„EVEå°ç«™
+description: æœ¬ç«™ä¸»è¦é‡‡é›†å›½å¤–EVEç›¸å…³æ–‡æ‘˜å¹¶è¿›è¡Œç¿»è¯‘ï¼Œæ„åœ¨è®©å¹¿å¤§åäººç©å®¶èƒ½å¤Ÿæ›´å¤šçš„äº†è§£åˆ°æ¬§æœEVEçš„ç”Ÿæ€ç¯å¢ƒ
 
 # url is currently only used only for the RSS feed in feed.xml
 url: http://eve.shadowsong.cn/
