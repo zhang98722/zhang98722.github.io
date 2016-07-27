@@ -14,12 +14,12 @@ comments: true
     <p>&nbsp;</p>
     <h2><b><em><img class="" src="http://cdn1.eveonline.com/community/devblog/2014/ArtOfRubicon/Wreck_New_07.jpg" alt="" width="851" height="357"></em><br>
     </b></h2>
-    <p><em>今日汇总: 由于goons的离开，北方的各个组织都一直在做清理op，, The Afterlife 在进攻南方, Pandemic Legion 攻击 CO2 并且在埋伏 TEST, Tenal 星域打得火热, Goonswarm Federation的大航和泰坦终于出场了，StainWaffles又打输了...</em></p>
+    <p><em>今日汇总: 由于goons的离开，北方的各个组织都一直在做清理op, The Afterlife 在进攻南方, Pandemic Legion 攻击 CO2 并且在埋伏 TEST, Tenal 星域打得火热, Goonswarm Federation的大航和泰坦终于出场了，StainWaffles又打输了...</em></p>
     <p><span id="more-1079"></span></p>
     <h2>- 北方 =</h2>
     <h3><span style="text-decoration: underline;">Lonetrek 低安</span> :</h3>
     <ul>
-        <li>25/07 : 在 <span style="color: #008000;"><strong>Hakonen</strong></span>, <span style="color: #ff0000;"><strong>Pandemic Legion</strong></span><em> T3 Fleet</em> 和<span style="color: #ff0000;"><strong> League of Unaligned Master Pilots</strong></span> <em>EWAR Fleet</em> 、 <span style="color: #ff0000;"><strong>Circle-Of-Two</strong></span> <em>T3 Fleet</em> (至少有163个t3,这比PL还多100个..) 发生战斗==&gt; <a href="http://evf-eve.com/services/brcat/?s=1448&amp;b=7134840&amp;e=160&amp;t=HjI&amp;o=1">战报</a>.</li>
+        <li>25/07 : 在 <span style="color: #008000;"><strong>Hakonen</strong></span>, <span style="color: #ff0000;"><strong>Pandemic Legion</strong></span><em> T3 Fleet</em> 和<span style="color: #ff0000;"><strong> League of Unaligned Master Pilots</strong></span> <em>EWAR Fleet</em> 以及 <span style="color: #ff0000;"><strong>Circle-Of-Two</strong></span> <em>T3 Fleet</em> (至少有163个t3,这比PL还多100个..) 发生战斗==&gt; <a href="http://evf-eve.com/services/brcat/?s=1448&amp;b=7134840&amp;e=160&amp;t=HjI&amp;o=1">战报</a>.</li>
     </ul>
     <h3><span style="text-decoration: underline;">Devoid 低安</span> :</h3>
     <ul>
@@ -27,7 +27,7 @@ comments: true
     </ul>
     <h3><span style="text-decoration: underline;">The Forge 低安</span> : (the Vodka War)</h3>
     <ul>
-        <li>26/07 : 在 <span style="color: #008000;"><strong>Oijanen</strong></span>, <span style="color: #ff0000;"><strong>the Afterlife</strong></span> <em><a href="https://zkillboard.com/kill/55284082/" rel="nofollow">Tengu</a> Fleet</em> 和 <span style="color: #ff0000;"><strong>Drone Region Federation</strong> </span><em>Dread/<a href="https://zkillboard.com/kill/55283989/" rel="nofollow">Cerberus</a> Fleet</em> 发生冲突 ==&gt; <a href="http://evf-eve.com/services/brcat/?s=186&amp;b=7136190&amp;e=150&amp;t=uvv">Battle Report</a> (<span style="color: #ff0000;"><strong>the Afterlife</strong></span>损失<strong>10 B</strong> 包括两个FAX，而  <span style="color: #ff0000;"><strong>DRF</strong></span> 损失 <strong>7 B</strong> 包括 16 Cerberus).</li>
+        <li>26/07 : 在 <span style="color: #008000;"><strong>Oijanen</strong></span>, <span style="color: #ff0000;"><strong>the Afterlife</strong></span> <em><a href="https://zkillboard.com/kill/55284082/" rel="nofollow">Tengu</a> Fleet</em> 和 <span style="color: #ff0000;"><strong>Drone Region Federation</strong> </span><em>Dread/<a href="https://zkillboard.com/kill/55283989/" rel="nofollow">Cerberus</a> Fleet</em> 发生冲突 ==&gt; <a href="http://evf-eve.com/services/brcat/?s=186&amp;b=7136190&amp;e=150&amp;t=uvv">战报</a> (<span style="color: #ff0000;"><strong>the Afterlife</strong></span>损失<strong>10 B</strong> 包括两个FAX，而  <span style="color: #ff0000;"><strong>DRF</strong></span> 损失 <strong>7 B</strong> 包括 16 Cerberus).</li>
     </ul>
     <h3><span style="text-decoration: underline;">Branch</span> :</h3>
     <ul>
@@ -35,7 +35,7 @@ comments: true
     </ul>
     <h3><span style="text-decoration: underline;">Fade</span> :</h3>
     <ul>
-        <li>26/07 : 在 <span style="color: #008000;"><strong>C4C-Z4</strong></span>, <span style="color: #ff0000;"><strong>The Blood Covenant</strong></span> <em><a href="https://zkillboard.com/kill/55276088/" rel="nofollow">RR Battleship</a> Gang</em> 被 <span style="color: #ff0000;"><strong>Pandemic Horde</strong></span>s in <em>Cormorants</em>击溃 ==&gt; <a href="http://evf-eve.com/services/brcat/?s=3697&amp;b=7135200&amp;e=60&amp;t=e">战报</a>.</li>
+        <li>26/07 : 在 <span style="color: #008000;"><strong>C4C-Z4</strong></span>, <span style="color: #ff0000;"><strong>The Blood Covenant</strong></span> <em><a href="https://zkillboard.com/kill/55276088/" rel="nofollow">RR Battleship</a> Gang</em> 被 <span style="color: #ff0000;"><strong>Pandemic Horde</strong></span>s 的 <em>Cormorants</em>击溃 ==&gt; <a href="http://evf-eve.com/services/brcat/?s=3697&amp;b=7135200&amp;e=60&amp;t=e">战报</a>.</li>
         <li>26/07 : 在 <span style="color: #008000;"><strong>GME-PQ</strong></span>,<span style="color: #ff0000;"><strong> Pandemic Horde</strong></span><em> Cruiser/Svipul Fleets</em> 和 <span style="color: #ff0000;"><strong>Provi-Bloc</strong></span> <em>Interceptors</em> and <span style="color: #ff0000;"><strong>Brave Collective</strong> </span><em>Thorax Gang</em>进行了一场混战 ==&gt; <a href="http://evf-eve.com/services/brcat/?s=3698&amp;b=7136400&amp;e=68&amp;t=yvvvf">Battle Report</a>.</li>
     </ul>
     <h3><span style="text-decoration: underline;">Pure Blind</span> :</h3>
@@ -56,7 +56,7 @@ comments: true
     </ul>
     <h3><span style="text-decoration: underline;">Venal</span> :</h3>
     <ul>
-        <li>26/07 : 在<span style="color: #008000;"><strong> Z0-TJW</strong></span>,<span style="color: #ff0000;"><strong> Tenal Control Unit</strong> </span><em>Cerberus Fleet</em> (曾经 <a href="https://zkillboard.com/kill/55286781/" rel="nofollow">击毁</a> 了一个 <span style="color: #ff0000;"><strong>Break a Wish Foundation</strong> </span><em>的堡垒</em>) 和<span style="color: #ff0000;"><strong>Vanguard Coalition</strong></span> <em>Tengu Fleet</em>发生战斗 ==&gt; <a href="http://evf-eve.com/services/brcat/?s=1304&amp;b=7136411&amp;e=150&amp;t=euf">战报</a>.</li>
+        <li>26/07 : 在<span style="color: #008000;"><strong> Z0-TJW</strong></span>,<span style="color: #ff0000;"><strong> Tenal Control Unit</strong> </span><em>Cerberus Fleet</em> (刚 <a href="https://zkillboard.com/kill/55286781/" rel="nofollow">击毁</a> 了一个 <span style="color: #ff0000;"><strong>Break a Wish Foundation</strong> </span><em>的堡垒</em>) 和<span style="color: #ff0000;"><strong>Vanguard Coalition</strong></span> <em>Tengu Fleet</em>发生战斗 ==&gt; <a href="http://evf-eve.com/services/brcat/?s=1304&amp;b=7136411&amp;e=150&amp;t=euf">战报</a>.</li>
     </ul>
     <h3><span style="text-decoration: underline;">Syndicate / Cloud Ring</span> :</h3>
     <ul>
@@ -81,7 +81,7 @@ comments: true
     <h3><span style="text-decoration: underline;">Aridia Lowsec</span> :</h3>
     <ul>
         <li><span style="color: #ff0000;"><strong>LowSchnaya Sholupen</strong></span> 的成员在整个星域很欢乐的抓 <span style="color: #ff0000;"><strong>Goonswarm Federation</strong>的</span><em>旗舰</em> : 3 <a href="https://zkillboard.com/region/10000054/reset/group/547/losses/" rel="nofollow">Carriers</a> / 2 <a href="https://zkillboard.com/region/10000054/reset/group/485/losses/" rel="nofollow">Dreads</a> / 2 <a href="https://zkillboard.com/region/10000054/reset/group/1538/losses/" rel="nofollow">FAXs</a>.</li>
-        <li>26/07 :<span style="color: #ff0000;"><strong> Goonswarm Federation</strong></span> 的<em>Super/Titan Fleet</em> 终于出现了，截止目前我们能看到 <a href="https://zkillboard.com/region/10000054/reset/group/365/losses/" rel="nofollow">10个POS被击毁</a> so far in the Region.</li>
+        <li>26/07 :<span style="color: #ff0000;"><strong> Goonswarm Federation</strong></span> 的<em>Super/Titan Fleet</em> 终于出现了，截止目前我们能看到 <a href="https://zkillboard.com/region/10000054/reset/group/365/losses/" rel="nofollow">10个POS被击毁</a>.</li>
     </ul>
     <h3><span style="text-decoration: underline;">Fountain</span> :</h3>
     <ul>
@@ -97,12 +97,12 @@ comments: true
     <h3><span style="text-decoration: underline;">Delve</span> :</h3>
     <ul>
         <li>27/07 : <span style="color: #ff0000;"><strong>The-Culture</strong></span> 的成员在 <a href="https://zkillboard.com/region/10000060/reset/group/365/losses/" rel="nofollow">拆POS</a>.</li>
-        <li>S星域内的几个星系进入增强 : <a href="https://timerboard.net/Delve" rel="nofollow">timer</a>.</li>
+        <li>星域内的几个星系进入增强 : <a href="https://timerboard.net/Delve" rel="nofollow">timer</a>.</li>
     </ul>
     <h2>- 南方 =</h2>
     <h3><span style="text-decoration: underline;">Immensea</span> : (The Tal War)</h3>
     <ul>
-        <li>25/07 : <span style="color: #ff0000;"><strong>StainWagon Coalition</strong></span> <em>Cerberus/Svipul Fleet</em>在几个星系被<span style="color: #ff0000;"><strong>Waffles</strong></span> <em>Cerberus</em> 攻击 <span style="color: #ff0000;"><strong>Fidelas Constans</strong></span> <em>Alpha Battleship Fleet</em> (<span style="color: #ff0000;"><strong>SW</strong></span> 在 <span style="color: #008000;"><strong>CKX-RW</strong></span>击毁了 3 个 <span style="color: #ff0000;"><strong>Serenity Initiative</strong></span>的 <em>Carriers</em> / <a href="https://www.reddit.com/r/Eve/comments/4ukjzf/3_nub_carriers_dunked_in_ckx/" rel="nofollow">Reddit Thread</a>) ==&gt; <a href="http://evf-eve.com/services/brcat/?s=2183,2182,2116,2178,2179,2170&amp;b=7134903&amp;e=107&amp;t=bec">战报</a> (<span style="color: #ff0000;"><strong>SW<span style="color: #000000;">+</span>WAFFLES</strong> </span>损失<strong>10 B</strong>，包括17个Cerberus/9个Scimitars，同时 <span style="color: #ff0000;"><strong>FCON</strong></span> 损失了 <strong>7 B</strong> ，包括 14 Battleships) + <a href="https://www.reddit.com/r/Eve/comments/4ul990/stainwagonwaffles_cerbs_vs_fcon_alpha_fleet/" rel="nofollow">Reddit Thread</a>.</li>
+        <li>25/07 : <span style="color: #ff0000;"><strong>StainWagon Coalition</strong></span> <em>Cerberus/Svipul Fleet</em>在几个星系被<span style="color: #ff0000;"><strong>Waffles</strong></span> <em>Cerberus</em> 和 <span style="color: #ff0000;"><strong>Fidelas Constans</strong></span> <em>Alpha Battleship Fleet</em> 攻击 (<span style="color: #ff0000;"><strong>SW</strong></span> 在 <span style="color: #008000;"><strong>CKX-RW</strong></span>击毁了 3 个 <span style="color: #ff0000;"><strong>Serenity Initiative</strong></span>的 <em>Carriers</em> / <a href="https://www.reddit.com/r/Eve/comments/4ukjzf/3_nub_carriers_dunked_in_ckx/" rel="nofollow">Reddit Thread</a>) ==&gt; <a href="http://evf-eve.com/services/brcat/?s=2183,2182,2116,2178,2179,2170&amp;b=7134903&amp;e=107&amp;t=bec">战报</a> (<span style="color: #ff0000;"><strong>SW<span style="color: #000000;">+</span>WAFFLES</strong> </span>损失<strong>10 B</strong>，包括17个Cerberus/9个Scimitars，同时 <span style="color: #ff0000;"><strong>FCON</strong></span> 损失了 <strong>7 B</strong> ，包括 14 Battleships) + <a href="https://www.reddit.com/r/Eve/comments/4ul990/stainwagonwaffles_cerbs_vs_fcon_alpha_fleet/" rel="nofollow">Reddit Thread</a>.</li>
         <li>26/07 : 在<span style="color: #008000;"><strong>Tenerifis</strong></span>战斗结束回家的路上, 在&nbsp;<span style="color: #008000;"><strong>AF0-V5</strong></span> <span style="color: #ff0000;"><strong>Vanguard Coalition</strong></span>/<span style="color: #ff0000;"><strong>FCON</strong></span> 击毁了一个<span style="color: #ff0000;"><strong> Infamous</strong> </span>的<em>大航</em> ==&gt; <a href="http://evf-eve.com/services/brcat/?s=2107&amp;b=7136211&amp;e=150&amp;t=vuuvb">战报</a> + <a href="https://www.reddit.com/r/Eve/comments/4uqbma/rip_glory_aeon/" rel="nofollow">Reddit Thread</a>.</li>
     </ul>
     <ul>
