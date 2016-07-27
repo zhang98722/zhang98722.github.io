@@ -22,7 +22,7 @@ comments: true
 ![img](http://i.imgur.com/Ba897CE.jpg)
 
 ## Tribute
-![img](http://i.imgur.com/HH9Wr0g.png =600x400)
+<img src="http://i.imgur.com/HH9Wr0g.png" width = "600" align=center />
 * **Circle-Of-Two** 在TEST的Maelstrom Fleet的护卫下(好像)，这个星域上线了一个**Keepstar** (xl堡垒，可停靠超旗和泰坦，消耗了大概400B) : [Reddit Thread](https://www.reddit.com/r/Eve/comments/4uemqj/co2_onlines_keepstar_in_tribute/) / Pictures ([here](http://imgur.com/a/sMP1P) / [here](http://imgur.com/a/vjZZW)) / [Dscan](https://dscan.me/nhrJcx).
 * 同时**Pandemic Legion**的Sleipnir Fleet似乎也想加入这次活动.
 
