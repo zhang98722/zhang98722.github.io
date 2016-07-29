@@ -12,7 +12,7 @@ comments: true
 
 <div class="content">
     <p>&nbsp;</p>
-    <h2><b><em><img class="" src="http://cdn1.eveonline.com/community/devblog/2014/ArtOfRubicon/Wreck_New_07.jpg" alt="" width="851" height="357"></em><br>
+    <h2><b><em><img class="" src="http://cdn1.eveonline.com/community/devblog/2014/ArtOfRubicon/Wreck_New_07.jpg" alt="" width="800" height="357"></em><br>
     </b></h2>
     <p><em>今日汇总: 由于goons的离开，北方的各个组织都一直在做清理op, The Afterlife 在进攻南方, Pandemic Legion 攻击 CO2 并且在埋伏 TEST, Tenal 星域打得火热, Goonswarm Federation的大航和泰坦终于出场了，StainWaffles又打输了...</em></p>
     <p><span id="more-1079"></span></p>
