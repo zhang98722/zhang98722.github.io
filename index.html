@@ -14,7 +14,7 @@ layout: default
             {% endif %}
         {% endif %}
         <div class="content">
-            {{ post.summary }}
+            {{ post.content | strip_html | truncatewords:100}}
         </div>
     </div>
 </div>
