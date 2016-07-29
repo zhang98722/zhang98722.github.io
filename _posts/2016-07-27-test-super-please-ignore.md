@@ -3,6 +3,7 @@ layout: post
 title: "TEST SUPER PLEASE IGNORE"
 date: 2016-07-27 12:00:00 -0800
 comments: true
+summary: <p><em>今日汇总: 由于goons的离开，北方的各个组织都一直在做清理op, The Afterlife 在进攻南方, Pandemic Legion 攻击 CO2 并且在埋伏 TEST, Tenal 星域打得火热, Goonswarm Federation的大航和泰坦终于出场了，StainWaffles又打输了...</em></p>
 ---
 
 > 本文摘录自网站[eve-volt](http://updates.eve-volt.net/ "Game of Sov"),link:[http://updates.eve-volt.net/game-of-sov/test-super-please-ignore/](http://updates.eve-volt.net/game-of-sov/test-super-please-ignore/),已取得原作者授权翻译并发布
