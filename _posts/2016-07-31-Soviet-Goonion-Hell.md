@@ -11,7 +11,7 @@ comments: true
 * * *
 
 <div class="content">
-<p><em>今日汇总: Pandemic Legion从上次更新之后，成功击杀了2个大航，但是损失了T3舰队，the Bastard Cartel成为新的LowSechnaya（译者注：应该是指本来是低安势力，然后去追随goons去南方）, Querious Fight Club屡战屡败, Goonswarm Federation占领了Delve的部分星系并且同Delve residents频繁接战, 围绕Immensea的一个关键星系，StainWagon和敌对发生了大量战斗，虽然这次有goon来帮忙不过还是输了， Spectre fleet 开始进攻 Providence..</em></p>
+<p><em>今日汇总: Pandemic Legion从上次更新之后，成功击杀了2个大航，但是损失了T3舰队，the Bastard Cartel成为新的LowSechnaya（译者注：应该是代替LSH原来在低安的位置，即在低安吃落单的goons）, Querious Fight Club屡战屡败, Goonswarm Federation占领了Delve的部分星系并且同Delve residents频繁接战, 围绕Immensea的一个关键星系，StainWagon和敌对发生了大量战斗，虽然这次有goon来帮忙不过还是输了， Spectre fleet 开始进攻 Providence..</em></p>
 <h2><b><span id="more-1131"></span></b></h2>
 <h2>- 北方 =</h2>
 <h3><span style="text-decoration: underline;">Lonetrek/The Forge 低安</span> :</h3>
@@ -22,7 +22,7 @@ comments: true
 <h3><span style="text-decoration: underline;">Black Rise 低安</span> :</h3>
 <ul>
 <li>30/07 : 在&nbsp;<span style="color: #008000;"><strong>Okkamon</strong></span>, <span style="color: #ff0000;"><strong>Pandemic Legion</strong></span> <em>T3s</em> 和<span style="color: #ff0000;"><strong> Project Box</strong></span> <em>Machariel/T3 Fleets</em>交战 ==&gt; <a href="http://evf-eve.com/services/brcat/?s=45330&amp;b=7142285&amp;e=30&amp;t=ff&amp;o=1">Battle Report</a>&nbsp;(<span style="color: #ff0000;"><strong>PL</strong></span>损失<strong>5B</strong>).</li>
-<li><span style="color: #ff0000;"><strong>The Bastard Cartel</strong></span> <a href="https://zkillboard.com/region/10000069/reset/group/547/losses/" rel="nofollow">destroyed</a> 3 <span style="color: #ff0000;"><strong>Goonswarm Federation/Allies</strong></span> <em>Carriers</em> this past few days..</li>
+<li><span style="color: #ff0000;"><strong>The Bastard Cartel</strong></span> 在过去几天里<a href="https://zkillboard.com/region/10000069/reset/group/547/losses/" rel="nofollow">击杀了</a> 3 <span style="color: #ff0000;">个<strong>Goonswarm Federation/Allies</strong></span> <em>Carriers</em> </li>
 </ul>
 <h3><span style="text-decoration: underline;">Fade</span> :</h3>
 <ul>
@@ -79,7 +79,7 @@ comments: true
 <li>星域的大量星系进入增强: <a href="https://timerboard.net/Delve" rel="nofollow">timer</a>.</li>
 </ul>
 <p>30/07 : 在<span style="color: #008000;"><strong>1-SMEB / Sakht</strong></span> 两个星系这些势力发生大战:</p>
-<p><img class="" src="http://i.imgur.com/G6FUSes.jpg" alt="" width="813" height="457"></p>
+<p><img class="" src="http://i.imgur.com/G6FUSes.jpg" alt="" width="750"></p>
 <ul>
 <ul>
 <li><span style="color: #ff0000;"><strong>Delve Residents</strong></span> 和&nbsp;<span style="color: #ff0000;"><strong>League of Unaligned Master Pilots</strong></span> /<span style="color: #ff0000;"><strong>&nbsp;Just let it happen</strong></span> /<span style="color: #ff0000;"><strong>&nbsp;Freedom Among the Stars</strong></span> 的 <em><a href="https://zkillboard.com/kill/55342779/" rel="nofollow">Gilas</a></em> (至少119个gila) ==&gt; 150+ 成员</li>
