@@ -3,6 +3,7 @@ layout: post
 title: "TEST SUPER PLEASE IGNORE"
 date: 2016-07-27 12:00:00 -0800
 comments: true
+summary: "TEST"
 ---
 
 > 本文摘录自网站[eve-volt](http://updates.eve-volt.net/ "Game of Sov"),link:[http://updates.eve-volt.net/game-of-sov/test-super-please-ignore/](http://updates.eve-volt.net/game-of-sov/test-super-please-ignore/),已取得原作者授权翻译并发布
