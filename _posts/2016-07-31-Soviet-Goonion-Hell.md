@@ -3,6 +3,7 @@ layout: post
 title: "Soviet-Goonion Hell"
 date: 2016-07-31 12:00:00 -0800
 comments: true
+summary: "今日汇总: Pandemic Legion从上次更新之后，成功击杀了2个大航，但是损失了T3舰队，the Bastard Cartel成为新的LowSechnaya（译者注：应该是代替LSH原来在低安的位置，即在低安吃落单的goons）, Querious Fight Club屡战屡败, Goonswarm Federation占领了Delve的部分星系并且同Delve residents频繁接战, 围绕Immensea的一个关键星系，StainWagon和敌对发生了大量战斗，虽然这次有goon来帮忙不过还是输了， Spectre fleet 开始进攻 Providence.."
 ---
 
 > 本文摘录自网站[eve-volt](http://updates.eve-volt.net/ "Game of Sov"),link:[http://updates.eve-volt.net/game-of-sov/soviet-goonion-hell/](http://updates.eve-volt.net/game-of-sov/soviet-goonion-hell/),已取得原作者授权翻译并发布
