@@ -6,7 +6,7 @@ comments: true
 summary: "今日汇总: Pandemic Horde的Fortizars（堡垒）灭了不少舰队,TEST/CO2和PL在Vale of the Silent大规模交战,在Delve通过与PL/NC以及其他势力的血战过后,Goonswarm Federation占领了更多星系, 南方的the Tal War放缓,StainWagon Coalition的Infamous管理层各种剧本…"
 ---
 
-> 本文摘录自网站[eve-volt](http://updates.eve-volt.net/ "Game of Sov"),link:[http://updates.eve-volt.net/game-of-sov/delve-war-v/](http://updates.eve-volt.net/game-of-sov/delve-war-v/),已取得原作者授权翻译并发布
+> 本文摘录自网站[eve-volt](http://updates.eve-volt.net/ "Game of Sov"),link:[http://updates.eve-volt.net/game-of-sov/inglorious-coup/](http://updates.eve-volt.net/game-of-sov/inglorious-coup/),已取得原作者授权翻译并发布
 > 因为个人能力有限,如果出现翻译错误,请大家指正,也有助于以后提高翻译质量,谢谢
 
 * * *
