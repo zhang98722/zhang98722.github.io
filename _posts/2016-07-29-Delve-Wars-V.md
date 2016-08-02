@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Delve Wars V"
+title: "[权利的游戏]Delve Wars V"
 date: 2016-07-29 12:00:00 -0800
 comments: true
 summary: "今日汇总: Pandemic Legion的战争机器开始在Vale使用泰坦, the Afterlife的tengu舰队和TISHU分别击杀了数十亿ISK的旗舰,The Initiative发布了自己的总结,赶走了另外一个联盟（翻译注：这里有点不太清楚，应该是说TISHU，从kb来看INIT确实把TISHU打得找不到北...）, Querious的战斗团真正慢慢消亡, Soviet和Goonion在Aridia集结,Goonswarm开始进攻Delve，南方的the Tal War战争节奏开始变慢…"
