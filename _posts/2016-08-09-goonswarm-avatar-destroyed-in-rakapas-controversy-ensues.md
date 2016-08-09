@@ -133,7 +133,7 @@ text-align:justify;text-justify:inter-ideograph;line-height:12.75pt'><span
 Helvetica;mso-bidi-font-family:Helvetica'>我们无法知道这次预警</span><span
             style='font-size:9.0pt;mso-ascii-font-family:Helvetica;mso-hansi-font-family:
 Helvetica;mso-bidi-font-family:Helvetica;mso-ansi-language:EN-AU'>是否没能及时告知，或者</span><span
-            lang=EN-AU style='font-size:9.0pt;font-family:"Helvetica",sans-serif;
+            style='font-size:9.0pt;font-family:"Helvetica",sans-serif;
 mso-ansi-language:EN-AU'>TT</span><span style='font-size:9.0pt;mso-ascii-font-family:
 Helvetica;mso-hansi-font-family:Helvetica;mso-bidi-font-family:Helvetica;
 mso-ansi-language:EN-AU'>驾驶员直接无视掉了警告</span><span style='font-size:9.0pt;
