@@ -12,9 +12,7 @@ summary: "八月三日，一艘 Goonswarm（以下简称小蜜蜂） 的TT在Rak
 
 * * *
 
-<div>
-
-<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+<div><p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
 text-align:justify;text-justify:inter-ideograph;line-height:12.75pt'><span
 style='font-size:9.0pt;mso-ascii-font-family:Helvetica;mso-hansi-font-family:
 Helvetica;mso-bidi-font-family:Helvetica'>八月三日，一艘</span><span lang=EN-US
@@ -51,7 +49,6 @@ href="https://evewho.com/pilot/Killah+Bee">Killah Bee</a></span><span
 style='font-size:9.0pt;mso-ascii-font-family:Helvetica;mso-hansi-font-family:
 Helvetica;mso-bidi-font-family:Helvetica'>有一次简短的交流。</span><span lang=EN-US
 style='font-size:9.0pt;font-family:"Helvetica",sans-serif'><o:p></o:p></span></p>
-
 <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
 text-align:justify;text-justify:inter-ideograph;line-height:12.75pt'><span
 style='font-size:9.0pt;mso-ascii-font-family:Helvetica;mso-hansi-font-family:
@@ -93,7 +90,6 @@ style='font-size:9.0pt;font-family:"Helvetica",sans-serif'>TT</span><span
 style='font-size:9.0pt;mso-ascii-font-family:Helvetica;mso-hansi-font-family:
 Helvetica;mso-bidi-font-family:Helvetica'>飘在一座友方堡垒上，且在安全缠绕的状态下。</span><span
 lang=EN-US style='font-size:9.0pt;font-family:"Helvetica",sans-serif'><o:p></o:p></span></p>
-
 <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
 text-align:justify;text-justify:inter-ideograph;line-height:12.75pt'><span
 style='font-size:9.0pt;mso-ascii-font-family:Helvetica;mso-hansi-font-family:
@@ -126,7 +122,6 @@ style='font-size:9.0pt;font-family:"Helvetica",sans-serif'>TT</span><span
 style='font-size:9.0pt;mso-ascii-font-family:Helvetica;mso-hansi-font-family:
 Helvetica;mso-bidi-font-family:Helvetica'>驾驶员终止此次转移。</span><span lang=EN-US
 style='font-size:9.0pt;font-family:"Helvetica",sans-serif'><o:p></o:p></span></p>
-
 <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
 text-align:justify;text-justify:inter-ideograph;line-height:12.75pt'><span
 style='font-size:9.0pt;mso-ascii-font-family:Helvetica;mso-hansi-font-family:
@@ -146,7 +141,6 @@ style='font-size:9.0pt;font-family:"Helvetica",sans-serif'>PL</span><span
 style='font-size:9.0pt;mso-ascii-font-family:Helvetica;mso-hansi-font-family:
 Helvetica;mso-bidi-font-family:Helvetica'>手中。</span><span lang=EN-US
 style='font-size:9.0pt;font-family:"Helvetica",sans-serif'><o:p></o:p></span></p>
-
 <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
 text-align:justify;text-justify:inter-ideograph;line-height:12.75pt'><span
 style='font-size:9.0pt;mso-ascii-font-family:Helvetica;mso-hansi-font-family:
@@ -159,11 +153,9 @@ style='font-size:9.0pt;font-family:"Helvetica",sans-serif'>Reddit</span><span
 style='font-size:9.0pt;mso-ascii-font-family:Helvetica;mso-hansi-font-family:
 Helvetica;mso-bidi-font-family:Helvetica'>上有过一次简短的发言：</span><span lang=EN-US
 style='font-size:9.0pt;font-family:"Helvetica",sans-serif'><o:p></o:p></span></p>
-
 <blockquote style='border:solid gainsboro 1.0pt;mso-border-alt:solid gainsboro .75pt;
 padding:12.0pt 12.0pt 12.0pt 12.0pt;margin-left:18.0pt;margin-top:18.0pt;
 margin-right:18.0pt;margin-bottom:18.0pt'>
-
 <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
 text-align:justify;text-justify:inter-ideograph;line-height:12.75pt;background:
 white'><i><span lang=EN-US style='font-size:9.0pt;font-family:"Helvetica",sans-serif;
@@ -192,7 +184,6 @@ color:#666666'>1000</span></i><i><span style='font-size:9.0pt;mso-ascii-font-fam
 Helvetica;mso-hansi-font-family:Helvetica;mso-bidi-font-family:Helvetica;
 color:#666666'>倍的小心！</span></i><i><span lang=EN-US style='font-size:9.0pt;
 font-family:"Helvetica",sans-serif;color:#666666'><o:p></o:p></span></i></p>
-
 <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
 text-align:justify;text-justify:inter-ideograph;line-height:12.75pt;background:
 white'><i><span style='font-size:9.0pt;mso-ascii-font-family:Helvetica;
@@ -212,9 +203,7 @@ style='font-size:9.0pt;mso-ascii-font-family:Helvetica;mso-hansi-font-family:
 Helvetica;mso-bidi-font-family:Helvetica;color:#666666'>报告</span></i><i><span
 lang=EN-US style='font-size:9.0pt;font-family:"Helvetica",sans-serif;
 color:#666666'><o:p></o:p></span></i></p>
-
 </blockquote>
-
 <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
 text-align:justify;text-justify:inter-ideograph;line-height:12.75pt'><span
 style='font-size:9.0pt;mso-ascii-font-family:Helvetica;mso-hansi-font-family:
@@ -241,7 +230,6 @@ lang=EN-US style='font-size:9.0pt;font-family:"Helvetica",sans-serif'>Jared Ki</
 style='font-size:9.0pt;mso-ascii-font-family:Helvetica;mso-hansi-font-family:
 Helvetica;mso-bidi-font-family:Helvetica'>付出了惨重的代价。</span><span lang=EN-US
 style='font-size:9.0pt;font-family:"Helvetica",sans-serif'><o:p></o:p></span></p>
-
 <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
 text-align:justify;text-justify:inter-ideograph;line-height:12.75pt'><span
 style='font-size:9.0pt;mso-ascii-font-family:Helvetica;mso-hansi-font-family:
@@ -265,7 +253,6 @@ style='font-size:9.0pt;font-family:"Helvetica",sans-serif'>CCP</span><span
 style='font-size:9.0pt;mso-ascii-font-family:Helvetica;mso-hansi-font-family:
 Helvetica;mso-bidi-font-family:Helvetica'>归还。</span><span lang=EN-US
 style='font-size:9.0pt;font-family:"Helvetica",sans-serif'><o:p></o:p></span></p>
-
 <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
 text-align:justify;text-justify:inter-ideograph;line-height:12.75pt'><span
 style='font-size:9.0pt;mso-ascii-font-family:Helvetica;mso-hansi-font-family:
@@ -280,7 +267,6 @@ lang=EN-US style='font-size:9.0pt;font-family:"Helvetica",sans-serif'>weapon
 timer</span><span style='font-size:9.0pt;mso-ascii-font-family:Helvetica;
 mso-hansi-font-family:Helvetica;mso-bidi-font-family:Helvetica'>）（即使此目标并没有任何攻击行为），然后堡垒的安全缠绕失效，从而目标退出无敌状态且无法安全下线。所有这些机制都让你击杀堡垒缠绕状态下的船只变得更容易。</span><span
 lang=EN-US style='font-size:9.0pt;font-family:"Helvetica",sans-serif'><o:p></o:p></span></p>
-
 <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
 text-align:justify;text-justify:inter-ideograph;line-height:12.75pt'><span
 style='font-size:9.0pt;mso-ascii-font-family:Helvetica;mso-hansi-font-family:
@@ -301,7 +287,6 @@ style='font-size:9.0pt;font-family:"Helvetica",sans-serif'>TT</span><span
 style='font-size:9.0pt;mso-ascii-font-family:Helvetica;mso-hansi-font-family:
 Helvetica;mso-bidi-font-family:Helvetica'>起效的准确时间，或者是什么样的具体情况能使这艘船被攻击。</span><span
 lang=EN-US style='font-size:9.0pt;font-family:"Helvetica",sans-serif'><o:p></o:p></span></p>
-
 <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
 text-align:justify;text-justify:inter-ideograph;line-height:12.75pt'><span
 style='font-size:9.0pt;mso-ascii-font-family:Helvetica;mso-hansi-font-family:
@@ -325,7 +310,6 @@ lang=EN-US style='font-size:9.0pt;font-family:"Helvetica",sans-serif'>TT</span><
 style='font-size:9.0pt;mso-ascii-font-family:Helvetica;mso-hansi-font-family:
 Helvetica;mso-bidi-font-family:Helvetica'>驾驶员的留言，他的回答能够很好地证明双方之间的恩怨：</span><span
 lang=EN-US style='font-size:9.0pt;font-family:"Helvetica",sans-serif'><o:p></o:p></span></p>
-
 <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
 text-align:justify;text-justify:inter-ideograph;line-height:12.75pt'><span
 style='font-size:9.0pt;mso-ascii-font-family:Helvetica;mso-hansi-font-family:
@@ -334,7 +318,6 @@ style='font-size:9.0pt;font-family:"Helvetica",sans-serif'>Talk Shit. Get Hit</s
 style='font-size:9.0pt;mso-ascii-font-family:Helvetica;mso-hansi-font-family:
 Helvetica;mso-bidi-font-family:Helvetica'>”</span><span lang=EN-US
 style='font-size:9.0pt;font-family:"Helvetica",sans-serif'><o:p></o:p></span></p>
-
 <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
 text-align:justify;text-justify:inter-ideograph;line-height:12.75pt'><span
 style='font-size:9.0pt;mso-ascii-font-family:Helvetica;mso-hansi-font-family:
@@ -346,13 +329,11 @@ style='font-size:9.0pt;font-family:"Helvetica",sans-serif'>Killah Bee</span><spa
 style='font-size:9.0pt;mso-ascii-font-family:Helvetica;mso-hansi-font-family:
 Helvetica;mso-bidi-font-family:Helvetica'>扔下麦克风，慢动作转身离去的画面。</span><span
 lang=EN-US style='font-size:9.0pt;font-family:"Helvetica",sans-serif'>.<o:p></o:p></span></p>
-
 <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
 text-align:justify;text-justify:inter-ideograph;line-height:12.75pt'><span
 style='font-size:9.0pt;mso-ascii-font-family:Helvetica;mso-hansi-font-family:
 Helvetica;mso-bidi-font-family:Helvetica'>（哥从不回头看爆炸）</span><span lang=EN-US
 style='font-size:9.0pt;font-family:"Helvetica",sans-serif'><o:p></o:p></span></p>
-
 <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
 text-align:justify;text-justify:inter-ideograph;line-height:12.75pt'><em><span
 lang=EN-US style='font-size:9.0pt;font-family:"Helvetica",sans-serif;
@@ -374,5 +355,4 @@ color:gray'>). </span></em><em><span style='font-size:9.0pt;font-family:宋体;
 mso-ascii-font-family:Helvetica;mso-hansi-font-family:Helvetica;mso-bidi-font-family:
 Helvetica;color:gray'>然而他无法就此发表评论。</span></em><span lang=EN-US
 style='font-size:9.0pt;font-family:"Helvetica",sans-serif'><o:p></o:p></span></p>
-
 </div>
