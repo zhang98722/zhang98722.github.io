@@ -13,7 +13,7 @@ summary: "八月三日，一艘 Goonswarm（以下简称小蜜蜂） 的TT在Rak
 * * *
 
 <div>
-
+    <img width="640" height="353" src="/images/goonswarm-avatar-destroyed-in-rakapas-controversy-ensues-avatarboom.jpg" alt="avatarboom"/>
     <p style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
 text-align:justify;text-justify:inter-ideograph;line-height:12.75pt'><span
             style='font-size:9.0pt;mso-ascii-font-family:Helvetica;mso-hansi-font-family:
