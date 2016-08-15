@@ -3,7 +3,7 @@ layout: post
 title: "[权利的游戏]Pandemic Family"
 date: 2016-08-12 12:00:00 -0800
 comments: true
-summary: "今日汇总: Drone Region Federation在多线战斗而且成功给敌对造成巨大的损失,Querious各种剧本, the Delve War战斗进度减慢, the Fountain Core War冲突加剧, Molden Heath损失巨大, the Tal War有几场游击战而StainWagon Coalition占领了几个星系, the Infamous的剧本再度升级…"
+summary: "今日汇总: 在Fade和Pure Blind各种大战，the Vodka War中在Afterlife 和 Drone Region Federation爆发了各种等级的战斗, Circle-Of-Two 又输给了 Pandemic Legion, the Initiative在 Syndicate 被Project Snuffles干掉了旗舰队 ,又一个联盟退出了the Imperium, Goonswarm 成员战斗并获得了更多的星系和月矿, the-Culture加入了the Fountain Core War, StainWagon保卫Tenerifis并且在Immensea游击, Fidelas Constans在Immensea建立了自己的租地联盟，the Infamous内乱在继续…"
 ---
 
 > 本文摘录自网站[eve-volt](http://updates.eve-volt.net/ "Game of Sov"),link:[http://updates.eve-volt.net/game-of-sov/pandemic-family/](http://updates.eve-volt.net/game-of-sov/pandemic-family/),已取得原作者授权翻译并发布
@@ -14,7 +14,7 @@ summary: "今日汇总: Drone Region Federation在多线战斗而且成功给敌
 <div class="content">
 									<p>&nbsp;</p>
 <p><img class="" src="http://i.imgur.com/fbuoBfa.png" width="559" height="371"></p>
-<p><i><span style="font-weight: 400;">今日汇总: 在Fade和Pure Blind各种大战，the Vodka War中在Afterlife 和 Drone Region Federation爆发了各种等级的战斗, Circle-Of-Two 又输给了 Pandemic Legion, the Initiative在 Syndicate 被Project Snuffles干掉了旗舰队 ,又一个联盟退出了the Imperium, Goonswarm 成员战斗并获得了更多的星系和月矿, the-Culture加入了the Fountain Core War, StainWagon保卫Tenerifis并且在Immensea游击, Fidelas Constans在Immensea建立了自己的租地联盟，the Infamous内乱中继续…</span></i></p>
+<p><i><span style="font-weight: 400;">今日汇总: 在Fade和Pure Blind各种大战，the Vodka War中在Afterlife 和 Drone Region Federation爆发了各种等级的战斗, Circle-Of-Two 又输给了 Pandemic Legion, the Initiative在 Syndicate 被Project Snuffles干掉了旗舰队 ,又一个联盟退出了the Imperium, Goonswarm 成员战斗并获得了更多的星系和月矿, the-Culture加入了the Fountain Core War, StainWagon保卫Tenerifis并且在Immensea游击, Fidelas Constans在Immensea建立了自己的租地联盟，the Infamous内乱在继续…</span></i></p>
 <h2><b><span id="more-1228"></span></b></h2>
 <h2><b>– The North =</b></h2>
 <h3><span style="text-decoration: underline;"><b>Lonetrek 低安</b></span><b> :</b></h3>
