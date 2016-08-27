@@ -3,12 +3,12 @@ layout: post
 title: "战后总结：SH1-6P之战 20/08/2016"
 date: 2016-08-27 12:00:00 -0800
 comments: true
-summary: "今日汇总：Northern Coalition和Pandemic Hordes在Pure Blind大战, the Afterlife 成员成功击杀了Drone Region Federation一个大航,Circle-Of-Two与Pandemic Legion在SH1-6P血战,Goonswarm Federation在Delve有几场中等规模的战斗, Pandemic Legion加入the Fountain Core War，the Vanguard Coalition回到了Insmother…"
+summary: "在星系 SH1-6P 有超过价值 1381.25 billion isk的物资被摧毁,包括6个Circle-Of-Two的泰坦.这应该是EVE中最近两年，或者是最近印象中继 B-R5RB之战后最大的一场战斗."
 ---
 
 <div class="content">
   <p>
-    <img class="alignnone" src="http://web.ccpgamescdn.com/newssystem/media/70481/1/fC8mEFe[1].jpg" width="3840" height="2035"></p>
+    <img class="alignnone" src="http://web.ccpgamescdn.com/newssystem/media/70481/1/fC8mEFe[1].jpg" width="700"></p>
   <h6>图片来自
     <a href="https://twitter.com/Ben_Thai1234/status/767217524584882176">@Ben_Thai1234</a></h6>
   <p>
@@ -31,7 +31,7 @@ summary: "今日汇总：Northern Coalition和Pandemic Hordes在Pure Blind大战
     <span class="ui-state-default ui-state-error ui-corner-all ux-summaryBox">
       <strong>1381.25 billion isk</strong>的物资被摧毁, 包括6个
       <span style="color: #ff0000;">
-        <strong>Circle-Of-Two</strong></span>大
+        <strong>Circle-Of-Two</strong></span>的
       <em>泰坦</em>.这应该是EVE中最近两年，或者是最近印象中继
       <span style="color: #008000;">
         <strong>B-R5RB</strong></span>之战后最大的一场战斗.</span>
