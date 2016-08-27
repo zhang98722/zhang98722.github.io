@@ -491,42 +491,5 @@ summary: "在星系 SH1-6P 有超过价值 1381.25 billion isk的物资被摧毁
     <em>Special thanks to Killah Bee of Pandemic Legion and Vily of TEST Alliance Please Ignore for their contributions.</em></p>
   <p>
     <em>We have reach out to Circle-Of-Two for comment, but as of writing have received no response.</em></p>
-    <div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing">
-      <h3 class="sd-title">Share this:</h3>
-      <div class="sd-content">
-        <ul>
-          <li>
-            <a href="#" class="sharing-anchor sd-button share-more">
-              <span>Share</span></a>
-          </li>
-          <li class="share-end"></li>
-        </ul>
-        <div class="sharing-hidden">
-          <div class="inner" style="display: none;">
-            <ul>
-              <li class="share-twitter">
-                <a rel="nofollow" data-shared="sharing-twitter-1312" class="share-twitter sd-button share-icon" href="http://updates.eve-volt.net/after-action-report/action-report-battle-sh1-6p-20082016/?share=twitter&amp;nb=1" target="_blank" title="Click to share on Twitter">
-                  <span>Twitter</span></a>
-              </li>
-              <li class="share-email share-service-visible">
-                <a rel="nofollow" data-shared="" class="share-email sd-button share-icon" href="http://updates.eve-volt.net/after-action-report/action-report-battle-sh1-6p-20082016/?share=email&amp;nb=1" target="_blank" title="Click to email this to a friend">
-                  <span>Email</span></a>
-              </li>
-              <li class="share-end"></li>
-              <li class="share-facebook">
-                <a rel="nofollow" data-shared="sharing-facebook-1312" class="share-facebook sd-button share-icon" href="http://updates.eve-volt.net/after-action-report/action-report-battle-sh1-6p-20082016/?share=facebook&amp;nb=1" target="_blank" title="Click to share on Facebook">
-                  <span>Facebook</span></a>
-              </li>
-              <li class="share-tumblr">
-                <a rel="nofollow" data-shared="" class="share-tumblr sd-button share-icon" href="http://updates.eve-volt.net/after-action-report/action-report-battle-sh1-6p-20082016/?share=tumblr&amp;nb=1" target="_blank" title="Click to share on Tumblr">
-                  <span>Tumblr</span></a>
-              </li>
-              <li class="share-end"></li>
-              <li class="share-end"></li>
-            </ul>
-          </div>
-        </div>
-      </div>
-    </div>
   </div>
 </div>
