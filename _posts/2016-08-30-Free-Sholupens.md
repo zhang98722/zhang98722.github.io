@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[权利的游戏]New World Order"
+title: "[权利的游戏]Free Sholupens"
 date: 2016-08-23 12:00:00 -0800
 comments: true
 summary: "今日汇总: Harroule的势力无畏事件, the North Fight Club 和 Brave Collective重新恢复了不少活力, Circle-Of-Two成员开始在Cobalt Edge拆POS而inPanic在打游击战, Guardians of the Galaxy 内部问题失去了几个联盟, LowSchenaya投送吃了和损了不少船, Delve War 归于寂静, Goonswarm Federation在Querious占领了几个星系Vanguard Coalition 在拆The Heathens的建筑…"
