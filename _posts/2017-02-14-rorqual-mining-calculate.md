@@ -11,21 +11,6 @@ summary: "终于开到大鲸鱼了？来瞅瞅你一个小时到底能挖多少�
 		<script src="http://cdn.bootcss.com/jquery/3.1.1/jquery.min.js"></script>
 		<link rel="stylesheet" href="https://cdn.datatables.net/1.10.13/css/jquery.dataTables.min.css">
 		<script src="https://cdn.datatables.net/1.10.13/js/jquery.dataTables.min.js"></script>
-		
-		<style>
-			#main{
-				width: 800px;
-				height: 500px;
-				position: absolute;
-				text-align: center;
-				left:0;
-				right:0;
-				top: 0;
-				bottom: 0;
-				margin: auto;
-				/*50%为自身尺寸的一半*/
-			}
-		</style>
 	</head>
 
 	<body>
