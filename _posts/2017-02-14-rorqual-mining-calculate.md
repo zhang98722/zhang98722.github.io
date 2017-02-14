@@ -15,7 +15,7 @@ summary: "终于开到大鲸鱼了？来瞅瞅你一个小时到底能挖多少�
 
 	<body>
 		<div id="main">
-		<h1>挖矿效率查询<span style="font-size:11px;">by ShadowSong(影歌) from PLA</span></h1>
+		<h1><span style="font-size:11px;">by ShadowSong(影歌) from PLA</span></h1>
 		<br>
 		<table id="oreTable" class="display" cellspacing="0" width="100%">
 			<thead>
