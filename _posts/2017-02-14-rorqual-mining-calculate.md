@@ -14,8 +14,8 @@ summary: "终于开到大鲸鱼了？来瞅瞅你一个小时到底能挖多少�
 		
 		<style>
 			#main{
-				width: 1000px;
-				height: 100%;
+				width: 800px;
+				height: 500px;
 				position: absolute;
 				text-align: center;
 				left:0;
