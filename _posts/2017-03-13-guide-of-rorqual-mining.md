@@ -28,9 +28,9 @@ summary: "想开大鲸鱼挖矿？你拿到驾照了么？！还不来学习一�
 
 ### 你需要准备的配置 ###
 
+### 你需要准备的技能 ###
 
-
-## 注意事项 ##
+## 其他注意事项 ##
 
 ## Shut up!Just take my money and give me a rorqual! ##
 
