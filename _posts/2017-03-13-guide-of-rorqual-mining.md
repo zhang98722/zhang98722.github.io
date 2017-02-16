@@ -148,12 +148,16 @@ PANIC技能到3级感觉就够用了，3级也很快，后面感觉意义不大�
 2. 停止工业模块
 3. 观察是否有人部署Mobile Cynosural Inhibitor，如果有，第一时间点cyno
 4. 看情况开启修理或者放无人机反击，情况恶劣在盾破后开无敌，然后修盾，在无敌结束之前把盾修满
+5. 如果你是多开的话，就算有cyno inhib，也要至少留一个cyno给后面的舰队，__当你点亮cyno之后，如果你换舰队cyno就会失效__
 
 对于大型舰队，考虑到舰队的组织速度，我建议你：
 
 __直接等死__
 
 参考：[战报](http://evf-eve.com/services/brcat/?s=4769&b=7430611&e=150&t=bb&ro=26.1)
+
+我这次有很大的原因就是我看到cyno inhib就一次性点亮所有cyno，导致后续的联盟组织的救援舰队我没有cyno可点，导致联盟没法drop
+
 ## Shut up!Just take my money and give me a rorqual! ##
 
 按照前面的描述，可以参考普通玩家的终极配置：
