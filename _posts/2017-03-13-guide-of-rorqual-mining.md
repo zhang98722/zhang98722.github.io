@@ -30,10 +30,7 @@ summary: "想开大鲸鱼挖矿？你拿到驾照了么？！还不来学习一�
 ### 你需要准备的配置 ###
 
 要准备配置，那么你需要了解以下核心装备
-1. 大鲸鱼：Rorqual
-
-fasdfasdfasdfasdf
-
+1. 大鲸鱼：Rorqual <br  /> ![大鲸鱼详细信息](http://eve.shadowsong.cn/images/QQ%E6%88%AA%E5%9B%BE20170216094148.png)
 2. 挖矿无人机：'Excavator' Mining Drone
 3. 工业模块：Industrial Core
 4. 无敌：Panic
