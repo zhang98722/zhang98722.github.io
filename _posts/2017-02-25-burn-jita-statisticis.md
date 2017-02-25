@@ -195,6 +195,7 @@ summary: "一年一度的小蜜蜂Goons高安jita活动开始了，从24号dt一
 			frighter.put("28846","Nomad");
 			frighter.put("28848","Anshar");
 			frighter.put("28850","Ark");
+			frighter.put("28606","Orca");
 			
 			var allTimeKB=new Array();
 			var lastHourKB=new Array();
@@ -210,7 +211,7 @@ summary: "一年一度的小蜜蜂Goons高安jita活动开始了，从24号dt一
 			} );
 			
 			function loadKM(page){
-				var url="https://zkillboard.com/api/kills/allianceID/1354830081/startTime/201702241100/iskValue/1000000000/no-items/no-attackers/page/"+page+"/";
+				var url="https://zkillboard.com/api/kills/allianceID/1354830081/startTime/201702241100/iskValue/700000000/no-items/no-attackers/page/"+page+"/";
 				$.ajax({  
 				   type: "GET",  
 				   url: url,  
