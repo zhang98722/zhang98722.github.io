@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2017小蜜蜂BURN JITA活动KB统计"
+title: "2017小蜜蜂BURN JITA活动KB统计(2017 BURN JITA KB statistics)"
 date: 2017-02-25 12:00:00 -0800
 comments: true
 summary: "一年一度的小蜜蜂Goons高安jita活动开始了，从24号dt一直持续到27号dt不间断～来看看收获如何～"
@@ -18,24 +18,25 @@ summary: "一年一度的小蜜蜂Goons高安jita活动开始了，从24号dt一
 
 	<body>
 		<div id="main">
-		<h2>当前击毁总ISK：<span id="totalIsk">0</span> <input type="hidden" id="totalIskHidden" value="0"></h2>
-		<h3>最近1小时击毁总ISK：<span id="totalIskLastHour">0</span> <input type="hidden" id="totalIskLastHourHidden" value="0"></h3>
-		<h3>最近24小时击毁总ISK：<span id="totalIskLastDay">0</span> <input type="hidden" id="totalIskLastDayHidden" value="0"></h3>
-		<h3>最后KB生成时间：<span id="lastKbTime"></span>(EVE时间，这里数据是从KB网实时获取，KB网数据可能有延迟或者缓存)</h3>
+		<span style="font-size:11px;color:red;">by Will ShadowSong(影歌) from PLA</span>
+		<h2>当前击毁总ISK(all time killed)：<span id="totalIsk">0</span> <input type="hidden" id="totalIskHidden" value="0"></h2>
+		<h3>最近1小时击毁总ISK(during last hour killed)：<span id="totalIskLastHour">0</span> <input type="hidden" id="totalIskLastHourHidden" value="0"></h3>
+		<h3>最近24小时击毁总ISK(during last day killed)：<span id="totalIskLastDay">0</span> <input type="hidden" id="totalIskLastDayHidden" value="0"></h3>
+		<h3>最后KB生成时间(lask kb timestamp)：<span id="lastKbTime"></span>(EVE时间，这里数据是从KB网实时获取，KB网数据可能有延迟或者缓存)</h3>
 		
 		<br>
 		
-		<h4 style="text-align:center;color:red;font-weight:bold;">总击杀排行</h4>
+		<h4 style="text-align:center;color:red;font-weight:bold;">总击杀排行(kill rank for all time)</h4>
 		<table id="allTimeTable" class="display" cellspacing="0" width="100%">
 			<thead>
 				<tr>
-					<th>受害者</th>
-					<th>船型</th>
-					<th>价值ISK</th>
-					<th>击杀时间</th>
-					<th>所属公司</th>
-					<th>所属联盟</th>
-					<th>KB链接</th>
+					<th>受害者(victim)</th>
+					<th>船型(shiptype)</th>
+					<th>价值ISK(value by isk)</th>
+					<th>击杀时间(kill timestamp)</th>
+					<th>所属公司(corp)</th>
+					<th>所属联盟(alliance)</th>
+					<th>KB链接(kb link)</th>
 				</tr>
 			</thead>
 			<tbody>
@@ -44,17 +45,17 @@ summary: "一年一度的小蜜蜂Goons高安jita活动开始了，从24号dt一
 	
 		<br>
 		
-		<h4 style="text-align:center;color:red;font-weight:bold;">1小时内击杀排行</h4>
+		<h4 style="text-align:center;color:red;font-weight:bold;">1小时内击杀排行(kill rank for last hour)</h4>
 		<table id="lastHourTable" class="display" cellspacing="0" width="100%">
 			<thead>
 				<tr>
-					<th>受害者</th>
-					<th>船型</th>
-					<th>价值ISK</th>
-					<th>击杀时间</th>
-					<th>所属公司</th>
-					<th>所属联盟</th>
-					<th>KB链接</th>
+					<th>受害者(victim)</th>
+					<th>船型(shiptype)</th>
+					<th>价值ISK(value by isk)</th>
+					<th>击杀时间(kill timestamp)</th>
+					<th>所属公司(corp)</th>
+					<th>所属联盟(alliance)</th>
+					<th>KB链接(kb link)</th>
 				</tr>
 			</thead>
 			<tbody>
@@ -63,17 +64,17 @@ summary: "一年一度的小蜜蜂Goons高安jita活动开始了，从24号dt一
 		
 		<br>
 		
-		<h4 style="text-align:center;color:red;font-weight:bold;">24小时内击杀排行</h4>
+		<h4 style="text-align:center;color:red;font-weight:bold;">24小时内击杀排行(kill rank for last day)</h4>
 		<table id="lastDayTable" class="display" cellspacing="0" width="100%">
 			<thead>
 				<tr>
-					<th>受害者</th>
-					<th>船型</th>
-					<th>价值ISK</th>
-					<th>击杀时间</th>
-					<th>所属公司</th>
-					<th>所属联盟</th>
-					<th>KB链接</th>
+					<th>受害者(victim)</th>
+					<th>船型(shiptype)</th>
+					<th>价值ISK(value by isk)</th>
+					<th>击杀时间(kill timestamp)</th>
+					<th>所属公司(corp)</th>
+					<th>所属联盟(alliance)</th>
+					<th>KB链接(kb link)</th>
 				</tr>
 			</thead>
 			<tbody>
@@ -309,7 +310,7 @@ summary: "一年一度的小蜜蜂Goons高安jita活动开始了，从24号dt一
 				template=template.replace("#datetime#",kb.killTime);
 				template=template.replace("#corpName#",kb.victim.corporationName);
 				template=template.replace("#allianceName#",kb.victim.allianceName);
-				template=template.replace("#kb#","<a href='https://zkillboard.com/kill/"+kb.killID+"/' taget='_blank'>链接</a>");
+				template=template.replace("#kb#","<a href='https://zkillboard.com/kill/"+kb.killID+"/' taget='_blank'>链接(link)</a>");
 				return template;
 			}
 		</script>
