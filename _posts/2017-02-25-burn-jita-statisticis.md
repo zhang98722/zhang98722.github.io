@@ -5,7 +5,6 @@ date: 2017-02-25 12:00:00 -0800
 comments: true
 summary: "一年一度的小蜜蜂Goons高安jita活动开始了，从24号dt一直持续到27号dt不间断～来看看收获如何～"
 ---
-
 <html>
 	<head>
 		<script src="http://cdn.bootcss.com/jquery/3.1.1/jquery.min.js"></script>
@@ -220,9 +219,9 @@ summary: "一年一度的小蜜蜂Goons高安jita活动开始了，从24号dt一
 						if(data==null||data.length==0){
 							return null;
 						}else{
-							console.info(data);
-							var lastHour=new Date(new Date().getTime()-1000*3600-1000*3600*8);		//时区
-							var lastDay=new Date(new Date().getTime()-1000*3600*24-1000*3600-1000*3600*8)
+							var timezoneOffset=new Date().getTimezoneOffset();
+							var lastHour=new Date(new Date().getTime()-1000*3600+1000*60*timezoneOffset);		//时区
+							var lastDay=new Date(new Date().getTime()-1000*3600*24+1000*60*timezoneOffset)
 							for(var i=0;i<data.length;i++){
 								var km=data[i];
 								var victim=km.victim;
