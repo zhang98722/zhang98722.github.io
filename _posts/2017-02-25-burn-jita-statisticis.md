@@ -18,6 +18,7 @@ summary: "一年一度的小蜜蜂Goons高安jita活动开始了，从24号dt一
 
 	<body>
 		<div id="main">
+		<h1><span style="font-size:11px;">数据是实时从KB网上拖取，速度有点慢，如果没有数据请多等一会～～～   by ShadowSong(影歌) from PLA</span></h1>
 		<h2>当前击毁总ISK：<span id="totalIsk">0</span> <input type="hidden" id="totalIskHidden" value="0"></h2>
 		<h3>最近1小时击毁总ISK：<span id="totalIskLast1Hour">0</span> <input type="hidden" id="totalIskLast1HourHidden" value="0"></h3>
 		<h3>最近24小时击毁总ISK：<span id="totalIskLast24Hour">0</span> <input type="hidden" id="totalIskLast24HourHidden" value="0"></h3>
