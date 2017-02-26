@@ -196,6 +196,7 @@ summary: "一年一度的小蜜蜂Goons高安jita活动开始了，从24号dt一
 			frighter.put("28848","Anshar");
 			frighter.put("28850","Ark");
 			frighter.put("28606","Orca");
+			frighter.put("34328","Bowhead");
 			
 			var allTimeKB=new Array();
 			var lastHourKB=new Array();
