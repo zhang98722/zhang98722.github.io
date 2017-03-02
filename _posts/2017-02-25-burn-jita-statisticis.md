@@ -219,8 +219,7 @@ summary: "一年一度的小蜜蜂Goons高安jita活动开始了，从24号dt一
 				   dataType: "json",  
 				   success: function (data) {
 						if(data==null||data.length==0){
-							$("#totalIskHidden").val(isk);
-							$("#totalIsk").html(parseFloat((isk/1000000000)).toFixed(2)+" B");
+						("#totalIsk").html(parseFloat((parseFloat($("#totalIskHidden"))/1000000000)).toFixed(2)+" B");
 							return null;
 						}else{
 							var timezoneOffset=new Date().getTimezoneOffset();
