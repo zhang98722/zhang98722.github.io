@@ -212,7 +212,7 @@ summary: "一年一度的小蜜蜂Goons高安jita活动开始了，从24号dt一
 			} );
 			
 			function loadKM(page){
-				var url="https://zkillboard.com/api/kills/allianceID/1354830081/startTime/201702241100/iskValue/700000000/no-items/no-attackers/page/"+page+"/";
+				var url="https://zkillboard.com/api/kills/allianceID/1354830081/startTime/201702241100/no-items/no-attackers/page/"+page+"/";
 				$.ajax({  
 				   type: "GET",  
 				   url: url,  
