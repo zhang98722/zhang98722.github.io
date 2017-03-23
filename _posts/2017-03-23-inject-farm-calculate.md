@@ -49,7 +49,7 @@ summary: "脑浆农场现在利润一直的平稳下滑，来查查脑浆农场�
 				</tr>
 			</tbody>
 		</table>
-		<div style="float:right;margin-right:100px;">
+		<div style="margin-left:50px;">
 			+4头插&极限点最差收益(卖价买extractor和plex，买价卖脑浆)：<span id="worseProfit"></span><br>
 			+4头插&极限点最高收益(买价买extractor和plex，卖价卖脑浆)：<span id="bestProfit"></span>
 		</div>
