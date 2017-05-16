@@ -32,7 +32,7 @@ summary: "脑浆农场现在利润一直的平稳下滑，来查查脑浆农场�
 				</tr>
 			</tfoot>
 			<tbody>
-				<tr typeId="29668">
+				<tr typeId="44992">
 					<td>PLEX</td>
 					<td>0</td>
 					<td>0</td>
@@ -82,8 +82,8 @@ summary: "脑浆农场现在利润一直的平稳下滑，来查查脑浆农场�
 						var tr=tbody.find("[typeid='29668']");
 						var plexBuy=parseFloat($(tr.find("td")[1]).html());
 						var plexSell=parseFloat($(tr.find("td")[2]).html());
-						var bestProfit=(injectSell-extractorBuy)*skillInjectCount-plexBuy;
-						var worseProfit=(injectbuy-extractorSell)*skillInjectCount-plexSell;
+						var bestProfit=(injectSell-extractorBuy)*skillInjectCount-plexBuy*500;
+						var worseProfit=(injectbuy-extractorSell)*skillInjectCount-plexSell*500;
 						$("#worseProfit").html(parseFloat((worseProfit/100/10000)).toFixed(2)+"M");
 						$("#bestProfit").html(parseFloat((bestProfit/100/10000)).toFixed(2)+"M");
                    }
