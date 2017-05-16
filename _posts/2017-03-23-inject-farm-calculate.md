@@ -60,7 +60,7 @@ summary: "脑浆农场现在利润一直的平稳下滑，来查查脑浆农场�
 				var itemTable=$("#itemTable");
 				$.ajax({  
                    type: "GET",  
-                   url: "http://api.eve-central.com/api/marketstat?typeid=29668&typeid=40519&typeid=40520&usesystem=30000142",  
+                   url: "http://api.eve-central.com/api/marketstat?typeid=44992&typeid=40519&typeid=40520&usesystem=30000142",  
                    dataType: "xml",  
                    success: function (ResponseText) { 
 						var tbody=itemTable.find("tbody");
