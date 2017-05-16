@@ -79,7 +79,7 @@ summary: "脑浆农场现在利润一直的平稳下滑，来查查脑浆农场�
 						var tr=tbody.find("[typeid='40519']");
 						var extractorBuy=parseFloat($(tr.find("td")[1]).html());
 						var extractorSell=parseFloat($(tr.find("td")[2]).html());
-						var tr=tbody.find("[typeid='29668']");
+						var tr=tbody.find("[typeid='44992']");
 						var plexBuy=parseFloat($(tr.find("td")[1]).html());
 						var plexSell=parseFloat($(tr.find("td")[2]).html());
 						var bestProfit=(injectSell-extractorBuy)*skillInjectCount-plexBuy*500;
