@@ -14,7 +14,7 @@ summary: "看到H站到道德制高点上攻击PLA攻击华人玩家，非常震
 	</head>
 	<body>
 		<div id="main">
-		<span style="font-size:11px;color:red;">by Will ShadowSong(影歌) from PLA</span>
+		<span style="font-size:11px;color:red;">by Will ShadowSong(影歌) from noWhere</span>
 		<h3>FRT KB读取状态：<span id="FRTKBLoadStatus"></span></h3>
 		<h3>PLA KB读取状态：<span id="PLAKBLoadStatus"></span></h3>
 		<table id="allTimeTable" class="display" cellspacing="0" width="100%">
