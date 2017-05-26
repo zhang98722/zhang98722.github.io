@@ -5,14 +5,11 @@ date: 2017-05-26 12:00:00 -0800
 comments: true
 summary: "看到H站到道德制高点上攻击PLA攻击华人玩家，非常震撼，不由想统计一下FRT和PLA到底谁内战更强，想不想看看～"
 ---
-
-<html>
 	<head>
 		<script src="http://cdn.bootcss.com/jquery/3.1.1/jquery.min.js"></script>
 		<link rel="stylesheet" href="https://cdn.datatables.net/1.10.13/css/jquery.dataTables.min.css">
 		<script src="https://cdn.datatables.net/1.10.13/js/jquery.dataTables.min.js"></script>
 	</head>
-	<body>
 		<div id="main">
 		<span style="font-size:11px;color:red;">by Will ShadowSong(影歌) from PLA</span>
 		<h3>FRT KB读取状态：<span id="FRTKBLoadStatus"></span></h3>
@@ -40,7 +37,7 @@ summary: "看到H站到道德制高点上攻击PLA攻击华人玩家，非常震
 			</tbody>
 		</table>
 		
-	</body>
+
 	<script type="text/javascript">
 		var totalPLAKill=0;
 		var totalPLAPPInvovled=0;
@@ -135,3 +132,6 @@ summary: "看到H站到道德制高点上攻击PLA攻击华人玩家，非常震
 				   }
 				});
 		}
+		
+	</script>
+
