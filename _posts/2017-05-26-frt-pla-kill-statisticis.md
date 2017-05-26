@@ -5,7 +5,7 @@ date: 2017-05-26 12:00:00 -0800
 comments: true
 summary: "看到H站到道德制高点上攻击PLA攻击华人玩家，非常震撼，不由想统计一下FRT和PLA到底谁内战更强，想不想看看～"
 ---
-	<head>
+<head>
 		<script src="http://cdn.bootcss.com/jquery/3.1.1/jquery.min.js"></script>
 		<link rel="stylesheet" href="https://cdn.datatables.net/1.10.13/css/jquery.dataTables.min.css">
 		<script src="https://cdn.datatables.net/1.10.13/js/jquery.dataTables.min.js"></script>
